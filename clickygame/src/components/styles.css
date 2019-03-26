@@ -1,0 +1,15 @@
+.navbar{
+    background: cornflowerblue;
+}
+.jumbotron{
+    text-align: center;
+}
+.clickPic{
+    height: 150px;
+    width: 20%;
+    margin: 25px
+}
+.lossMsg{
+    text-align: center;
+    color: red;
+}
